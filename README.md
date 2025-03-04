@@ -11,3 +11,6 @@
 2. **Установите зависимости:**
    ```bash
    pip install -r requirements.txt
+3. **Запустите сервер**
+   ```bash
+   python server.py
